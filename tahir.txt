@@ -1,3 +1,6 @@
 I am a student
+<<<<<<< HEAD
 My Name is Tahir
 test
+=======
+>>>>>>> parent of aef8e67 (Updated the tahir.txt file)
